@@ -1,0 +1,3 @@
+[submodule "eventbus"]
+	path = eventbus
+	url = https://github.com/byr-gdp/eventbus.git
